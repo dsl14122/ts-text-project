@@ -1,0 +1,26 @@
+{
+  "name": "ts-text-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsl14122/ts-text-project.git"
+  },
+  "author": "DSL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsl14122/ts-text-project/issues"
+  },
+  "homepage": "https://github.com/dsl14122/ts-text-project#readme",
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.0.1",
+    "rollup": "^3.10.0",
+    "rollup-plugin-serve": "^2.0.2",
+    "rollup-plugin-typescript2": "^0.34.1",
+    "typescript": "^4.9.4"
+  }
+}
