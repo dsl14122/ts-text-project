@@ -15,3 +15,5 @@ console.log(B);
 const ss: undefined|null =  null
 
 console.log(ss);
+console.log('success');
+
